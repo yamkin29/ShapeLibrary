@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLibrary", "ShapeLibrary\ShapeLibrary.csproj", "{BC188C0C-C810-41C8-8763-6726B1D0CF1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLibraryTests", "ShapeLibraryTests\ShapeLibraryTests.csproj", "{50D8C538-B118-4849-B463-D0611EA188A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC188C0C-C810-41C8-8763-6726B1D0CF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC188C0C-C810-41C8-8763-6726B1D0CF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC188C0C-C810-41C8-8763-6726B1D0CF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC188C0C-C810-41C8-8763-6726B1D0CF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D8C538-B118-4849-B463-D0611EA188A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D8C538-B118-4849-B463-D0611EA188A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D8C538-B118-4849-B463-D0611EA188A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D8C538-B118-4849-B463-D0611EA188A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

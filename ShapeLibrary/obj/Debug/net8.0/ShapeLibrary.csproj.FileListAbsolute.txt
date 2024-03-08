@@ -1,0 +1,11 @@
+C:\Users\dartw\RiderProjects\ShapeLibrary\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.deps.json
+C:\Users\dartw\RiderProjects\ShapeLibrary\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.dll
+C:\Users\dartw\RiderProjects\ShapeLibrary\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.pdb
+C:\Users\dartw\RiderProjects\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dartw\RiderProjects\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfoInputs.cache
+C:\Users\dartw\RiderProjects\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfo.cs
+C:\Users\dartw\RiderProjects\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dartw\RiderProjects\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.dll
+C:\Users\dartw\RiderProjects\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\refint\ShapeLibrary.dll
+C:\Users\dartw\RiderProjects\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.pdb
+C:\Users\dartw\RiderProjects\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ref\ShapeLibrary.dll
